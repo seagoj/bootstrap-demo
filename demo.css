@@ -1,0 +1,42 @@
+/* 
+    Document   : demo
+    Created on : May 26, 2012, 4:57:19 AM
+    Author     : seagoj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.span12 {
+    color: white;
+    background-color: red;
+}
+.span6 {
+    color: white;
+    background-color: orange;
+}
+.span4 {
+    color: white;
+    background-color: yellow;
+}
+.span3 {
+    color: white;
+    background-color: green;
+}
+.span2 {
+    color: white;
+    background-color: blue;
+}
+.span1 {
+    color: white;
+    background-color: indigo;
+}
+
